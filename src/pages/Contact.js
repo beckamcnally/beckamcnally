@@ -4,7 +4,7 @@ function Contact() {
 return (
 
 <article id="contact">
-<h2 class="section-title">Contact Information</h2>
+<h2 className="section-title">Contact Information</h2>
     <ul>
         <li>beckamcnally@gmail.com</li>
         <li><a href="https://github.com/beckamcnally">GitHub</a></li>

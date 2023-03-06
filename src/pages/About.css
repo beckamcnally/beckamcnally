@@ -1,0 +1,35 @@
+  @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+
+.profilePic {
+  width: 1150px;
+  height: auto;
+  position: relative;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+
+#pContainer {
+  position: absolute;
+  font-family: 'Courgette', cursive;
+  color: #7C6354;
+  top: 50%;
+  left: 50%;
+  transform: translate(-105%, -15%);
+  text-align: left;
+  width: 350px; 
+}
+
+#pContainer2 {
+  position: absolute;
+  font-family: 'Courgette', cursive;
+  color: #7C6354;
+  top: 50%;
+  left: 50%;
+  transform: translate(8%, -45%);
+  text-align: left;
+  width: 350px;  
+}

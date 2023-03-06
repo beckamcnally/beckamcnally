@@ -5,17 +5,14 @@ import './NavLink.css'
 function NavLink ({ currentPage, handlePageChange }) {
   return (
     <>
-  <ul class="">
+  <ul>
+
     <li>
-      <a href="#Home"  class="" onClick={() => handlePageChange('Home')} className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}>Home</a>
+      <a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'} >About</a>
     </li>
 
     <li>
-      <a href="#about" class="" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'} >About</a>
-    </li>
-
-    <li>
-      <a href="#portfolio" class="" onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'} >Portfolio</a>
+      <a href="#portfolio" onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'} >Portfolio</a>
       </li>
 
   </ul>

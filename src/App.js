@@ -1,11 +1,9 @@
-import './App.css';
+import React from 'react';
 import Navigation from './Navigation';
 
 function App() {
-  return (
-    <body>
+  return (   
       <Navigation/>
-    </body>
   );
 }
 
