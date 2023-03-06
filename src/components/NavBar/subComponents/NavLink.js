@@ -8,7 +8,7 @@ function NavLink ({ currentPage, handlePageChange }) {
   <ul>
 
     <li>
-      <a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'} >About</a>
+      <a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? ' active' : 'nav-link'} >About</a>
     </li>
 
     <li>

@@ -1,4 +1,4 @@
-import personalPhoto from '../assets/profileImgs/book.png'
+import personalPhoto from '../assets/profileImgs/profilebook.png'
 import './About.css'
 
 function About() {

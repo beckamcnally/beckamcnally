@@ -2,34 +2,20 @@
 
 
 .profilePic {
-  width: 1150px;
+
+}
+
+.bio {
+  width: 150vh;
   height: auto;
-  position: relative;
   display: block;
   margin: 0 auto;
 }
 
-
-
-
 #pContainer {
-  position: absolute;
-  font-family: 'Courgette', cursive;
-  color: #7C6354;
-  top: 50%;
-  left: 50%;
-  transform: translate(-105%, -15%);
-  text-align: left;
-  width: 350px; 
-}
-
-#pContainer2 {
-  position: absolute;
-  font-family: 'Courgette', cursive;
-  color: #7C6354;
-  top: 50%;
-  left: 50%;
-  transform: translate(8%, -45%);
-  text-align: left;
-  width: 350px;  
-}
+  display: none;
+  }
+  
+  #pContainer2 {
+  display: none; 
+  }
