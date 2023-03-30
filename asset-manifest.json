@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/beckamcnally/static/css/main.96d13966.css",
-    "main.js": "/beckamcnally/static/js/main.cfef1d57.js",
+    "main.css": "/beckamcnally/static/css/main.6f8d1671.css",
+    "main.js": "/beckamcnally/static/js/main.62dd528f.js",
     "static/js/787.1267788a.chunk.js": "/beckamcnally/static/js/787.1267788a.chunk.js",
-    "static/media/profilebook.png": "/beckamcnally/static/media/profilebook.b0fa155c367a55856438.png",
+    "static/media/goldFrame.png": "/beckamcnally/static/media/goldFrame.fc42aabdc72e269c402b.png",
     "static/media/expenseTracker.PNG": "/beckamcnally/static/media/expenseTracker.8676dc6a7ec8ce80e807.PNG",
+    "static/media/BeckaMcNally.pdf": "/beckamcnally/static/media/BeckaMcNally.7d8ef096c4d6848c1747.pdf",
     "static/media/eCommerce.png": "/beckamcnally/static/media/eCommerce.79947d19cacd891e0657.png",
-    "static/media/BeckaMcNally.pdf": "/beckamcnally/static/media/BeckaMcNally.9329159dae2ef1edb725.pdf",
     "static/media/FivedayForecast.png": "/beckamcnally/static/media/FivedayForecast.53a9cbb9346c2acbb41f.png",
     "static/media/WorkDay.PNG": "/beckamcnally/static/media/WorkDay.7fc8ba0d14c8c756b544.PNG",
     "static/media/Jate.png": "/beckamcnally/static/media/Jate.d2a505ce84f912027d87.png",
     "index.html": "/beckamcnally/index.html",
-    "main.96d13966.css.map": "/beckamcnally/static/css/main.96d13966.css.map",
-    "main.cfef1d57.js.map": "/beckamcnally/static/js/main.cfef1d57.js.map",
+    "main.6f8d1671.css.map": "/beckamcnally/static/css/main.6f8d1671.css.map",
+    "main.62dd528f.js.map": "/beckamcnally/static/js/main.62dd528f.js.map",
     "787.1267788a.chunk.js.map": "/beckamcnally/static/js/787.1267788a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d13966.css",
-    "static/js/main.cfef1d57.js"
+    "static/css/main.6f8d1671.css",
+    "static/js/main.62dd528f.js"
   ]
 }
