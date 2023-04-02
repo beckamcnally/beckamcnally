@@ -4,7 +4,7 @@ import projectData from './projectData';
 
 function ProjectCards() {
   return (
-    <article className="projects container-fluid">
+    <article className="projects container-sm">
       {projectData.map(project => (
         <Project key={project.title} project={project} />
       ))}

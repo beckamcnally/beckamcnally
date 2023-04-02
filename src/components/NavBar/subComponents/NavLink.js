@@ -5,7 +5,7 @@ import './NavLink.css'
 function NavLink ({ currentPage, handlePageChange }) {
   return (
     <>
-  <ul className='container-fluid'>
+  <ul >
 
     <li>
       <a href="#about" onClick={() => handlePageChange('About')} className='nav-link' id="nav1" >About</a>

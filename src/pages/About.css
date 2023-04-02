@@ -1,9 +1,6 @@
   @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 
-.profilePic {
-  width: 40%;
-}
 
 .bio {
   width: 100vh;
@@ -12,7 +9,7 @@
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-
+border: 2px solid red;
 }
 
 #pContainer {

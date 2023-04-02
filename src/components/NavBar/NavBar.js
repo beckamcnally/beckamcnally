@@ -7,7 +7,7 @@ import './NavBar.css'
 
 function NavBar ({ currentPage, handlePageChange }) {
   return (
-<nav id="nav" className='nav container-fluid'>
+<nav id="nav">
 <NavLink currentPage={currentPage} handlePageChange={handlePageChange} />
 <Header/>
 <ContactBtn currentPage={currentPage} handlePageChange={handlePageChange} />

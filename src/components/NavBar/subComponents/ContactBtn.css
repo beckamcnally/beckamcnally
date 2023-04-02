@@ -1,8 +1,9 @@
 #contactBtn {
   color:#f5bcd3;
   border: 1px solid;
-  padding-left: 50px;
-  padding-right: 50px;
-  margin-right: 40px;
-  justify-content: flex-end;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-right: 3%;
+  align-self: center;
 }
+
