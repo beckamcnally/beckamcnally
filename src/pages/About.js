@@ -3,7 +3,7 @@ import './About.css'
 
 function About() {
   return ( 
-<article className="bio">
+<article className="bio container-fluid">
     <img src={personalPhoto} className='profilePic' alt='Myself and my dog Hiccup'/>
    <div id="pContainer">
     <p>As a recent graduate of a coding boot camp, I am a self-motivated learner with a passion for technology and a background in customer service. Despite not having a traditional tech background, I am eager to continue learning and growing as a full stack web developer.</p> 

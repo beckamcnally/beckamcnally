@@ -3,17 +3,18 @@ section {
   border: 5px dotted #dfe6f2;
   padding: 10px;
   border-radius: 10px;
-  margin: 1% 25%;
-
+  margin: 2% 25%;
   display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
-#imgContainer {
+.imgContainer {
   display: flex;
   flex-direction: column;
+  text-decoration: none;
+  color: #241023;
 }
 
 img {
@@ -25,3 +26,7 @@ img {
 h3 {
   align-self: center;
 } 
+
+.imgContainer :hover {
+  color: #f5bcd3;
+}

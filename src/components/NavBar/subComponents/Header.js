@@ -2,7 +2,7 @@
 
 function Header (){
 return (
-  <header>
+  <header className='container-fluid'>
      <h1 id="header">BECKA MCNALLY</h1>
   </header>
   );

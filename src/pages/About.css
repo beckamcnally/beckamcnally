@@ -6,13 +6,13 @@
 }
 
 .bio {
-  width: 150vh;
-  height: auto;
+  width: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+
 }
 
 #pContainer {
@@ -22,9 +22,12 @@
 p {
   border: 2px transparent white;
   text-align: justify;
-  margin: 2%;
+  margin: 1% 2% ;
   padding: 1%;
+
 }
+
+
 
 
 @media screen and (max-width: 760px) {

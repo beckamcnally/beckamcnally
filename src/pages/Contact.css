@@ -1,3 +1,12 @@
-a {
+
+
+#contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.my-btn {
   text-decoration: none;
+  color: black;
 }

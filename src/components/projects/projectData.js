@@ -3,6 +3,7 @@ import eCommerce from '../../assets/eCommerce.png'
 import expenseTracker from '../../assets/expenseTracker.PNG'
 import jate from '../../assets/Jate.png'
 import workday from '../../assets/WorkDay.PNG'
+import NibbleNabble from '../../assets/homepageimage.png'
 console.log(FiveDayImg)
 
 
@@ -24,8 +25,8 @@ const projectData = [
   {
     "deployedSite": "",
     "title": "Nibble Nable",
-    "githubRepo": "",
-    "image": "",
+    "githubRepo": "https://github.com/megellman/group-project",
+    "image": NibbleNabble,
     "description": "Nibble Nabble is a web application that helps hosts plan multiple dinner party menus with cocktails and paired wines. It utilizes technologies such as HTML, CSS, JavaScript, JQuery, Tailwind, and multiple food and drink APIs. The user interface is designed to allow easy navigation and searching, with dynamically generated search forms. The project was developed using Agile methodology, with contributions from multiple developers."
   },
   {
