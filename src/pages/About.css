@@ -1,34 +1,16 @@
   @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
-
-
-.bio {
-  width: 100vh;
+#content-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 0 auto;
-border: 2px solid red;
-}
-
-#pContainer {
-  display: flex;
-}
-
-p {
-  border: 2px transparent white;
-  text-align: justify;
-  margin: 1% 2% ;
-  padding: 1%;
-
 }
 
 
 
 
-@media screen and (max-width: 760px) {
-  #pContainer {
-    flex-direction: column;
-  }
-}
+
+
+
+
