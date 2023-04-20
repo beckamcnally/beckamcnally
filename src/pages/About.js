@@ -15,7 +15,7 @@ function About() {
       <p className="container-md">Through my varied work experiences and my dedication to learning new skills, I have developed a strong work ethic and a knack for problem-solving. I am excited to bring these skills to a new role as a full stack web developer, where I can continue to learn and grow while building innovative and user-friendly web applications.</p>
     </div>  
   </div>   
-  <Project/>
+  {/* <Project/> */}
 </article > 
 );
 };

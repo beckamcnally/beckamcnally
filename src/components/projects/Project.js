@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Project({ project }) {
   const { deployedSite, title, image, description, githubRepo } = project;
-
+console.log(githubRepo)
   const [activeIndex, setActiveIndex] = useState(0)
   return (
  
@@ -53,7 +53,7 @@ function Project({ project }) {
           
           <a href={deployedSite}><h3 className="projectTitle">{title}</h3></a>
           <figcaption>{description}</figcaption>
-        
+          <a href={githubRepo}>Github Repo</a>
       </figure>
   );
 }
