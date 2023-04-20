@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/beckamcnally/static/css/main.bad52d18.css",
-    "main.js": "/beckamcnally/static/js/main.5b089d63.js",
+    "main.css": "/beckamcnally/static/css/main.fb6dd756.css",
+    "main.js": "/beckamcnally/static/js/main.955f92a5.js",
     "static/js/787.1267788a.chunk.js": "/beckamcnally/static/js/787.1267788a.chunk.js",
+    "static/media/teamHowler.png": "/beckamcnally/static/media/teamHowler.f55de45ebb77dd29bfaf.png",
     "static/media/goldFrame.png": "/beckamcnally/static/media/goldFrame.fc42aabdc72e269c402b.png",
+    "static/media/teachUsed.png": "/beckamcnally/static/media/teachUsed.a6c802b322cb49ab5b35.png",
+    "static/media/expenseTrackerTeamSlide.png": "/beckamcnally/static/media/expenseTrackerTeamSlide.d8cd98fde5fd4731d0bf.png",
     "static/media/expenseTracker.PNG": "/beckamcnally/static/media/expenseTracker.8676dc6a7ec8ce80e807.PNG",
+    "static/media/expenseTrackerWireFrame.png": "/beckamcnally/static/media/expenseTrackerWireFrame.6425e31acba09ee9f969.png",
     "static/media/eCommerce.png": "/beckamcnally/static/media/eCommerce.79947d19cacd891e0657.png",
     "static/media/BeckaMcNally.pdf": "/beckamcnally/static/media/BeckaMcNally.c2b433513210e1e87229.pdf",
     "static/media/FivedayForecast.png": "/beckamcnally/static/media/FivedayForecast.53a9cbb9346c2acbb41f.png",
     "static/media/WorkDay.PNG": "/beckamcnally/static/media/WorkDay.7fc8ba0d14c8c756b544.PNG",
+    "static/media/expenseTrackerTech.png": "/beckamcnally/static/media/expenseTrackerTech.b38453295d6430fd1ffe.png",
     "static/media/homepageimage.png": "/beckamcnally/static/media/homepageimage.aa8e273251f106b0a952.png",
+    "static/media/Howler.jpg": "/beckamcnally/static/media/Howler.d88ec806b16c959ecb89.jpg",
+    "static/media/expenseTrackerIntroSlide.jpg": "/beckamcnally/static/media/expenseTrackerIntroSlide.6953eae414a720049c8e.jpg",
     "static/media/Jate.png": "/beckamcnally/static/media/Jate.d2a505ce84f912027d87.png",
     "index.html": "/beckamcnally/index.html",
-    "main.bad52d18.css.map": "/beckamcnally/static/css/main.bad52d18.css.map",
-    "main.5b089d63.js.map": "/beckamcnally/static/js/main.5b089d63.js.map",
+    "main.fb6dd756.css.map": "/beckamcnally/static/css/main.fb6dd756.css.map",
+    "main.955f92a5.js.map": "/beckamcnally/static/js/main.955f92a5.js.map",
     "787.1267788a.chunk.js.map": "/beckamcnally/static/js/787.1267788a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bad52d18.css",
-    "static/js/main.5b089d63.js"
+    "static/css/main.fb6dd756.css",
+    "static/js/main.955f92a5.js"
   ]
 }
