@@ -1,5 +1,5 @@
 import './Contact.css'
-import resume from '../assets/BeckaMcNally.pdf'
+import resume from '../assets/Becka_McNally.pdf'
 
 function Contact() {
 return (
